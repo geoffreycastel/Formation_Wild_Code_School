@@ -82,9 +82,9 @@ df_lat_lon = create_df_lat_lon()
 # SIDEBAR ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-image1 = Image.open("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/logo_adn_tourisme.png") 
+logo_adn_tourisme = "https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/logo_adn_tourisme.png"
 
-st.sidebar.image(image1, use_column_width=True)
+st.sidebar.image(logo_adn_tourisme, use_column_width=True)
 
 list_regions = ['Auvergne-Rhône-Alpes', 'Bourgogne-Franche-Comté', 'Bretagne', 'Centre-Val de Loire', 'Corse', 'Grand Est', 'Hauts-de-France',
 'Normandie', 'Nouvelle-Aquitaine', 'Occitanie', 'Pays de la Loire', "Provence-Alpes-Côte d'Azur", 'Île-de-France', 'DOM/TOM']
