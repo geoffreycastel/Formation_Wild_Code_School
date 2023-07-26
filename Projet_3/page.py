@@ -16,7 +16,7 @@ st.set_page_config(layout="wide")
 # DataFrame hôtels
 @st.cache_data 
 def create_df():
-    data = pd.read_csv('C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/df_details.csv')
+    data = pd.read_csv("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/df_details.csv")
     df_details = pd.DataFrame(data)
     df_details = df_details.fillna('Non Renseigné')
     df_details = df_details.rename(columns = {'dc:identifier' : 'Identifiant', 'rdfs:label.fr' : 'Nom', 'schema:streetAddress' : 'Adresse', 'schema:addressLocality' : 'Ville', 'schema:postalCode' : 'Code_postal', 'schema:email' : 'Email', 'schema:telephone' : 'Telephone', 'foaf:homepage_x' : 'Site_web', 'schema:legalName' : 'Office_référente', 'foaf:homepage_y' : 'Site_web_office', 'type_stream' : 'Catégorie'})
@@ -28,7 +28,7 @@ df_details = create_df()
 # DataFrame établissements sans commentaires
 @st.cache_data 
 def create_df_no_comments():
-    data = pd.read_csv('C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/df_no_comment.csv')
+    data = pd.read_csv("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/df_no_comment.csv")
     df_no_comment = pd.DataFrame(data)
     df_no_comment = df_no_comment[['dc:identifier', 'rdfs:label.fr', 'initial_type']].rename( columns = {'dc:identifier' : 'Identifiant', 'rdfs:label.fr' : 'Nom', 'initial_type' : 'Catégorie'})
     df_no_comment['Catégorie'] = df_no_comment['Catégorie'].replace('hotel', 'Hébergement').replace('restaurant', 'Restaurant')
@@ -41,7 +41,7 @@ df_no_comment = create_df_no_comments()
 # DataFrame prédictions catégories
 @st.cache_data 
 def create_df_proba():
-    data = pd.read_csv('C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/df_prediction.csv')
+    data = pd.read_csv("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/df_prediction.csv")
     df_proba = pd.DataFrame(data)
     df_proba = df_proba[['dc:identifier', 'initial_type', 'rdfs:label.fr', 'prediction_Tfidf_2gram', 'proba_Tfidf_2gram_accomodation', 'proba_Tfidf_2gram_food']].rename( columns = {'dc:identifier' : 'Identifiant', 'initial_type' : 'Catégorie', 'rdfs:label.fr' : 'Nom', 'prediction_Tfidf_2gram' : 'Catégorie prédite', 'proba_Tfidf_2gram_accomodation' : 'Probabilité Hébergement', 'proba_Tfidf_2gram_food' : 'Probabilité Restaurant'})
     df_proba['Catégorie'] = df_proba['Catégorie'].replace('hotel', 'Hébergement').replace('restaurant', 'Restaurant').replace('hotel_restaurant', 'Hébergement & Restaurant')
@@ -57,7 +57,7 @@ df_proba = create_df_proba()
 # DataFrame catégories google
 @st.cache_data 
 def create_df_google():
-    data = pd.read_csv('C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/categorie_google.csv')
+    data = pd.read_csv("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/categorie_google.csv")
     df_google = pd.DataFrame(data)
     df_google = df_google.fillna('Non Renseigné')
     df_google = df_google.rename(columns = {'dc:identifier' : 'Identifiant', 'types' : 'Catégories Google'}).drop('Unnamed: 0', axis = 1)
@@ -69,7 +69,7 @@ df_google = create_df_google()
 # DataFrame latitude longitude
 @st.cache_data 
 def create_df_lat_lon():
-    data = pd.read_csv('C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/df_lat_lon.csv')
+    data = pd.read_csv("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/df_lat_lon.csv")
     df_lat_lon = pd.DataFrame(data)
     df_lat_lon = df_lat_lon.fillna('Non Renseigné')
     df_lat_lon = df_lat_lon.rename(columns = {'dc:identifier' : 'Identifiant', 'schema:geo.schema:latitude' : 'latitude', 'schema:geo.schema:longitude': 'longitude'})
@@ -82,7 +82,7 @@ df_lat_lon = create_df_lat_lon()
 # SIDEBAR ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-logo_adn_tourisme = "C:/Users/geoff/Desktop/Wild_Code_School/Projets/Projet_3/logo_adn_tourisme.png"
+logo_adn_tourisme = "https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/logo_adn_tourisme.png"
 
 image1 = Image.open(logo_adn_tourisme) 
 
@@ -445,9 +445,6 @@ with tab_no_desc:
 
                 folium_static(m)
 
-
-
-
         else:
 
             st.write("Aucun établissement n'a été trouvé avec cet identifiant.")
@@ -504,9 +501,6 @@ with tab_no_desc:
                 folium.Marker(location = emplacement['Coordonnées'].iloc[0], popup = str(etablissement['Nom'].iloc[0]) ).add_to(m)
 
                 folium_static(m)
-
-
-
 
         else:
 
