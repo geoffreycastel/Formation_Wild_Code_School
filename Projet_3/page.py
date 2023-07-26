@@ -148,6 +148,8 @@ with tab_mauvaise_categorie:
 
         st.write('> Un Hébergement devrait devenir un **Restaurant** lorsque sa probabilité est inférieure à', str(100 - proba_choisie), '%')
         df_hebergement_to_restaurant = df_hebergement[df_hebergement['Probabilité Hébergement'] <= 100 - proba_choisie]
+        df_hebergement_to_restaurant['Probabilité Hébergement'] = df_hebergement_to_restaurant['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_hebergement_to_restaurant['Probabilité Restaurant'] = df_hebergement_to_restaurant['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_hebergement_to_restaurant, use_container_width=True)
 
         st.write('')
@@ -155,6 +157,8 @@ with tab_mauvaise_categorie:
         st.write('> Un Hébergement devrait avoir la catégorie **Hébergement & Restaurant** lorsque sa probabilité est comprise entre', str(100 - proba_choisie), 'et', str(proba_choisie), '%')
         df_hebergement_to_mixte = df_hebergement[df_hebergement['Probabilité Hébergement'] < proba_choisie]
         df_hebergement_to_mixte = df_hebergement_to_mixte[df_hebergement_to_mixte['Probabilité Hébergement'] > 100 - proba_choisie]
+        df_hebergement_to_mixte['Probabilité Hébergement'] = df_hebergement_to_mixte['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_hebergement_to_mixte['Probabilité Restaurant'] = df_hebergement_to_mixte['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_hebergement_to_mixte, use_container_width=True)
 
         st.write('')
@@ -234,6 +238,8 @@ with tab_mauvaise_categorie:
 
         st.write('> Un Restaurant devrait devenir un **Hébergement** lorsque sa probabilité est inférieure à', str(100 - proba_choisie), '%')
         df_restaurant_to_hebergement = df_restaurants[df_restaurants['Probabilité Restaurant'] <= 100 - proba_choisie]
+        df_restaurant_to_hebergement['Probabilité Hébergement'] = df_restaurant_to_hebergement['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_restaurant_to_hebergement['Probabilité Restaurant'] = df_restaurant_to_hebergement['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_restaurant_to_hebergement, use_container_width=True)
 
         st.write('')
@@ -241,6 +247,8 @@ with tab_mauvaise_categorie:
         st.write('> Un Restaurant devrait avoir la catégorie **Hébergement & Restaurant** lorsque sa probabilité est comprise entre', str(100 - proba_choisie), 'et', str(proba_choisie), '%')
         df_restaurant_to_mixte = df_restaurants[df_restaurants['Probabilité Restaurant'] < proba_choisie]
         df_restaurant_to_mixte = df_restaurant_to_mixte[df_restaurant_to_mixte['Probabilité Restaurant'] > 100 - proba_choisie]
+        df_restaurant_to_mixte['Probabilité Hébergement'] = df_restaurant_to_mixte['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_restaurant_to_mixte['Probabilité Restaurant'] = df_restaurant_to_mixte['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_restaurant_to_mixte, use_container_width=True)
 
         st.write('')
@@ -313,12 +321,16 @@ with tab_mauvaise_categorie:
 
         st.write('> Un Hébergement & Restaurant devrait devenir un **Hébergement** lorsque sa probabilité est supérieure à', str(proba_choisie[1]), '%')
         df_hebergements_restaurants_to_hebergement = df_hebergements_restaurants[df_hebergements_restaurants['Probabilité Hébergement'] > proba_choisie[1]]
+        df_hebergements_restaurants_to_hebergement['Probabilité Hébergement'] = df_hebergements_restaurants_to_hebergement['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_hebergements_restaurants_to_hebergement['Probabilité Restaurant'] = df_hebergements_restaurants_to_hebergement['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_hebergements_restaurants_to_hebergement, use_container_width=True)
 
         st.write('')
 
         st.write('> Un Hebergement & Restaurant devrait devenir un **Restaurant** lorsque sa probabilité est supérieure à', str(proba_choisie[1]), '%')
         df_hebergements_restaurants_to_restaurant = df_hebergements_restaurants[df_hebergements_restaurants['Probabilité Restaurant'] > proba_choisie[1]]
+        df_hebergements_restaurants_to_restaurant['Probabilité Hébergement'] = df_hebergements_restaurants_to_restaurant['Probabilité Hébergement'].apply(lambda x: f"{round(x, 2)} %")
+        df_hebergements_restaurants_to_restaurant['Probabilité Restaurant'] = df_hebergements_restaurants_to_restaurant['Probabilité Restaurant'].apply(lambda x: f"{round(x, 2)} %")
         st.dataframe(df_hebergements_restaurants_to_restaurant, use_container_width=True)
 
 
