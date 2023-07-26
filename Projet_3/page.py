@@ -82,9 +82,7 @@ df_lat_lon = create_df_lat_lon()
 # SIDEBAR ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-logo_adn_tourisme = "https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/logo_adn_tourisme.png"
-
-image1 = Image.open(logo_adn_tourisme) 
+image1 = Image.open("https://raw.githubusercontent.com/geoffreycastel/Formation_Wild_Code_School/main/Projet_3/logo_adn_tourisme.png") 
 
 st.sidebar.image(image1, use_column_width=True)
 
