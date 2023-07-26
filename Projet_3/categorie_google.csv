@@ -1,0 +1,865 @@
+,dc:identifier,types
+0,13968,['premise']
+1,66782,"['lodging', 'point_of_interest', 'establishment']"
+2,37055,"['lodging', 'point_of_interest', 'establishment']"
+3,60792,['street_address']
+4,97764,
+5,97735,
+6,75227,
+7,74978,"['lodging', 'point_of_interest', 'establishment']"
+8,89907,"['lodging', 'point_of_interest', 'establishment']"
+9,68298,"['lodging', 'point_of_interest', 'establishment']"
+10,94167,"['point_of_interest', 'establishment']"
+11,57109,"['lodging', 'point_of_interest', 'establishment']"
+12,68477,['premise']
+13,92929,"['lodging', 'point_of_interest', 'establishment']"
+14,60807,
+15,14595,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+16,78327,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+17,13897,['street_address']
+18,78835,"['campground', 'lodging', 'park', 'real_estate_agency', 'point_of_interest', 'establishment']"
+19,68385,"['real_estate_agency', 'finance', 'point_of_interest', 'establishment']"
+20,56998,"['night_club', 'spa', 'bar', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+21,76802,"['roofing_contractor', 'point_of_interest', 'establishment']"
+22,80059,
+23,91918,"['lodging', 'point_of_interest', 'establishment']"
+24,68199,['premise']
+25,62946,
+26,45228,['street_address']
+27,61610,"['lodging', 'point_of_interest', 'establishment']"
+28,37001,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+29,78846,"['rv_park', 'lodging', 'point_of_interest', 'establishment']"
+30,97773,['premise']
+31,36995,"['point_of_interest', 'establishment']"
+32,57239,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+33,72650,['premise']
+34,68194,"['lodging', 'point_of_interest', 'establishment']"
+35,14609,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+36,14596,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+37,89830,"['jewelry_store', 'point_of_interest', 'store', 'establishment']"
+38,13955,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']"
+39,14990,"['lodging', 'point_of_interest', 'establishment']"
+40,98209,['premise']
+41,100073,
+42,68475,
+43,68479,"['lodging', 'point_of_interest', 'establishment']"
+44,97765,"['point_of_interest', 'establishment']"
+45,70299,"['lodging', 'point_of_interest', 'establishment']"
+46,92237,"['lodging', 'point_of_interest', 'establishment']"
+47,60981,['subpremise']
+48,15430,"['travel_agency', 'point_of_interest', 'establishment']"
+49,71738,
+50,37000,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+51,93729,"['lodging', 'point_of_interest', 'establishment']"
+52,56988,"['lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+53,68308,"['lodging', 'point_of_interest', 'establishment']"
+54,68161,"['lodging', 'point_of_interest', 'establishment']"
+55,100460,['premise']
+56,57282,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+57,94809,"['lodging', 'point_of_interest', 'establishment']"
+58,69012,"['lodging', 'point_of_interest', 'establishment']"
+59,60962,
+60,100072,"['lodging', 'point_of_interest', 'establishment']"
+61,97778,['premise']
+62,64191,['street_address']
+63,94684,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+64,63971,"['lodging', 'point_of_interest', 'establishment']"
+65,68476,
+66,71739,
+67,57161,"['lodging', 'point_of_interest', 'establishment']"
+68,83847,['premise']
+69,69014,"['lodging', 'point_of_interest', 'establishment']"
+70,14544,"['lodging', 'point_of_interest', 'establishment']"
+71,75703,"['restaurant', 'bar', 'rv_park', 'food', 'lodging', 'point_of_interest', 'establishment']"
+72,13940,"['lodging', 'point_of_interest', 'establishment']"
+73,68286,"['lodging', 'point_of_interest', 'establishment']"
+74,68293,"['lodging', 'point_of_interest', 'establishment']"
+75,14606,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+76,15530,"['lodging', 'point_of_interest', 'establishment']"
+77,78710,['street_address']
+78,61607,"['lodging', 'point_of_interest', 'establishment']"
+79,68006,"['point_of_interest', 'establishment']"
+80,60789,
+81,68437,"['lodging', 'point_of_interest', 'establishment']"
+82,68174,"['lodging', 'point_of_interest', 'establishment']"
+83,94696,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+84,100512,['premise']
+85,13964,['premise']
+86,82574,"['lodging', 'point_of_interest', 'establishment']"
+87,77908,"['lodging', 'point_of_interest', 'establishment']"
+88,68183,['street_address']
+89,75811,"['lodging', 'point_of_interest', 'establishment']"
+90,82950,"['lodging', 'point_of_interest', 'establishment']"
+91,68156,"['lodging', 'point_of_interest', 'establishment']"
+92,68355,"['lodging', 'point_of_interest', 'establishment']"
+93,93730,"['lodging', 'spa', 'point_of_interest', 'establishment']"
+94,37005,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+95,68402,"['lodging', 'point_of_interest', 'establishment']"
+96,14278,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+97,64265,"['lodging', 'point_of_interest', 'establishment']"
+98,75226,
+99,60976,
+100,62442,"['lodging', 'point_of_interest', 'establishment']"
+101,57061,"['lodging', 'point_of_interest', 'establishment']"
+102,13911,"['lodging', 'point_of_interest', 'establishment']"
+103,97761,['premise']
+104,78547,
+105,69017,"['lodging', 'point_of_interest', 'establishment']"
+106,68444,"['lodging', 'point_of_interest', 'food', 'establishment']"
+107,68473,"['lodging', 'point_of_interest', 'establishment']"
+108,15418,['premise']
+109,78669,
+110,66087,"['lodging', 'point_of_interest', 'establishment']"
+111,64323,"['lodging', 'point_of_interest', 'establishment']"
+112,94863,"['lodging', 'point_of_interest', 'establishment']"
+113,68187,"['lodging', 'point_of_interest', 'establishment']"
+114,13862,['premise']
+115,89631,"['lodging', 'point_of_interest', 'establishment']"
+116,67920,"['lodging', 'point_of_interest', 'establishment']"
+117,57035,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+118,60747,"['lodging', 'point_of_interest', 'establishment']"
+119,68165,"['lodging', 'point_of_interest', 'establishment']"
+120,68471,"['secondary_school', 'university', 'school', 'point_of_interest', 'establishment']"
+121,68484,"['lodging', 'point_of_interest', 'establishment']"
+122,60958,['premise']
+123,68480,"['lodging', 'point_of_interest', 'establishment']"
+124,94425,['street_address']
+125,45248,"['lodging', 'point_of_interest', 'establishment']"
+126,97770,['premise']
+127,89462,"['restaurant', 'rv_park', 'lodging', 'bar', 'food', 'point_of_interest', 'establishment']"
+128,69020,"['lodging', 'point_of_interest', 'establishment']"
+129,78719,['street_address']
+130,100102,['route']
+131,60988,['street_address']
+132,70332,"['point_of_interest', 'establishment']"
+133,93625,
+134,14540,"['lodging', 'point_of_interest', 'establishment']"
+135,61615,"['lodging', 'point_of_interest', 'establishment']"
+136,68301,['street_address']
+137,60774,
+138,96241,
+139,78697,
+140,97757,
+141,13942,
+142,100421,['premise']
+143,72657,
+144,13879,"['lodging', 'point_of_interest', 'establishment']"
+145,89905,"['lodging', 'point_of_interest', 'establishment']"
+146,78721,
+147,100064,"['lodging', 'point_of_interest', 'establishment']"
+148,69022,"['neighborhood', 'political']"
+149,14673,
+150,94689,
+151,68384,"['lodging', 'point_of_interest', 'establishment']"
+152,70329,"['point_of_interest', 'establishment']"
+153,75204,"['lodging', 'point_of_interest', 'establishment']"
+154,72689,
+155,90947,
+156,69008,"['lodging', 'point_of_interest', 'establishment']"
+157,97550,"['lodging', 'point_of_interest', 'establishment']"
+158,60787,"['lodging', 'point_of_interest', 'establishment']"
+159,91921,"['restaurant', 'lodging', 'point_of_interest', 'food', 'establishment']"
+160,57039,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+161,60983,
+162,61004,
+163,68441,['route']
+164,72815,"['lodging', 'point_of_interest', 'establishment']"
+165,68372,"['lodging', 'point_of_interest', 'establishment']"
+166,78644,['premise']
+167,68369,"['church', 'place_of_worship', 'point_of_interest', 'establishment']"
+168,14585,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+169,60780,['premise']
+170,57027,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+171,78714,['premise']
+172,60783,"['lodging', 'point_of_interest', 'establishment']"
+173,94697,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+174,14577,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+175,68179,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+176,70282,"['lodging', 'point_of_interest', 'establishment']"
+177,57271,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+178,13869,"['restaurant', 'lodging', 'point_of_interest', 'food', 'establishment']"
+179,13982,"['lodging', 'point_of_interest', 'establishment']"
+180,70328,"['point_of_interest', 'establishment']"
+181,73465,"['lodging', 'point_of_interest', 'establishment']"
+182,99158,['premise']
+183,68383,"['clothing_store', 'store', 'point_of_interest', 'establishment']"
+184,78706,
+185,96367,['route']
+186,57200,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+187,61006,"['clothing_store', 'point_of_interest', 'store', 'establishment']"
+188,79847,"['lodging', 'point_of_interest', 'establishment']"
+189,61981,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+190,15509,['street_address']
+191,60746,"['lodging', 'point_of_interest', 'establishment']"
+192,13870,"['lodging', 'point_of_interest', 'establishment']"
+193,93728,"['lodging', 'point_of_interest', 'establishment']"
+194,60992,
+195,75220,['street_address']
+196,85764,"['lodging', 'point_of_interest', 'establishment']"
+197,61001,
+198,68291,"['lodging', 'point_of_interest', 'establishment']"
+199,78222,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+200,68196,"['lodging', 'point_of_interest', 'establishment']"
+201,69021,"['city_hall', 'local_government_office', 'point_of_interest', 'establishment']"
+202,68158,"['lodging', 'point_of_interest', 'establishment']"
+203,68175,['premise']
+204,68395,
+205,60810,['premise']
+206,14593,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+207,72829,"['lodging', 'point_of_interest', 'establishment']"
+208,45250,['street_address']
+209,15364,"['campground', 'park', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+210,97760,['premise']
+211,78660,
+212,77178,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+213,14576,"['campground', 'park', 'rv_park', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+214,85884,"['real_estate_agency', 'travel_agency', 'point_of_interest', 'establishment']"
+215,68162,"['lodging', 'point_of_interest', 'establishment']"
+216,13923,"['lodging', 'point_of_interest', 'establishment']"
+217,14972,"['lodging', 'point_of_interest', 'establishment']"
+218,78220,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+219,94687,"['real_estate_agency', 'point_of_interest', 'establishment']"
+220,68303,['street_address']
+221,60975,
+222,94712,"['lodging', 'point_of_interest', 'establishment']"
+223,60815,
+224,83807,
+225,55114,['street_address']
+226,101768,"['lodging', 'point_of_interest', 'establishment']"
+227,68387,
+228,60816,"['lodging', 'point_of_interest', 'establishment']"
+229,97774,['street_address']
+230,68359,"['lodging', 'point_of_interest', 'establishment']"
+231,68296,"['lodging', 'point_of_interest', 'establishment']"
+232,100166,"['point_of_interest', 'furniture_store', 'home_goods_store', 'store', 'establishment']"
+233,101377,"['lodging', 'point_of_interest', 'establishment']"
+234,57267,
+235,57013,"['lodging', 'point_of_interest', 'establishment']"
+236,68163,"['lodging', 'point_of_interest', 'establishment']"
+237,100063,"['lodging', 'point_of_interest', 'establishment']"
+238,57275,['premise']
+239,60143,"['lodging', 'point_of_interest', 'establishment']"
+240,96439,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+241,60760,
+242,14534,"['point_of_interest', 'establishment']"
+243,73559,"['lodging', 'point_of_interest', 'establishment']"
+244,94675,"['rv_park', 'lodging', 'point_of_interest', 'establishment']"
+245,68289,"['lodging', 'point_of_interest', 'establishment']"
+246,82667,
+247,78666,['street_address']
+248,60794,['premise']
+249,14924,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+250,70338,"['lodging', 'point_of_interest', 'establishment']"
+251,91034,"['lodging', 'point_of_interest', 'establishment']"
+252,69015,"['lodging', 'point_of_interest', 'establishment']"
+253,68469,"['lodging', 'point_of_interest', 'establishment']"
+254,54694,"['lodging', 'point_of_interest', 'establishment']"
+255,94690,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+256,60809,['premise']
+257,13949,"['lodging', 'point_of_interest', 'establishment']"
+258,14587,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+259,14546,"['lodging', 'point_of_interest', 'establishment']"
+260,37008,"['campground', 'park', 'bar', 'lodging', 'point_of_interest', 'establishment']"
+261,37060,['premise']
+262,60748,['premise']
+263,74264,
+264,68185,"['lodging', 'point_of_interest', 'establishment']"
+265,60744,['premise']
+266,60163,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+267,70289,"['point_of_interest', 'establishment']"
+268,78817,
+269,91916,"['lodging', 'point_of_interest', 'establishment']"
+270,68440,"['lodging', 'point_of_interest', 'establishment']"
+271,37026,"['lodging', 'point_of_interest', 'establishment']"
+272,75121,"['lodging', 'point_of_interest', 'establishment']"
+273,68481,"['lodging', 'point_of_interest', 'establishment']"
+274,57224,"['lodging', 'point_of_interest', 'establishment']"
+275,68474,
+276,78730,['premise']
+277,82693,"['lodging', 'point_of_interest', 'establishment']"
+278,97777,['street_address']
+279,45240,"['lodging', 'point_of_interest', 'establishment']"
+280,70368,"['lodging', 'point_of_interest', 'establishment']"
+281,97983,['premise']
+282,57097,"['lodging', 'point_of_interest', 'establishment']"
+283,14917,['route']
+284,37010,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+285,14612,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+286,60766,['street_address']
+287,57116,"['restaurant', 'lodging', 'point_of_interest', 'food', 'establishment']"
+288,57023,
+289,96117,"['lodging', 'point_of_interest', 'establishment']"
+290,93255,"['lodging', 'point_of_interest', 'establishment']"
+291,66674,
+292,97771,
+293,70286,"['lodging', 'point_of_interest', 'establishment']"
+294,68306,"['lodging', 'point_of_interest', 'establishment']"
+295,45262,"['lodging', 'point_of_interest', 'establishment']"
+296,57201,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+297,69005,"['lodging', 'point_of_interest', 'establishment']"
+298,98477,
+299,14882,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+300,93812,"['restaurant', 'lodging', 'point_of_interest', 'food', 'establishment']"
+301,14603,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+302,68381,"['lodging', 'point_of_interest', 'establishment']"
+303,68189,"['lodging', 'point_of_interest', 'establishment']"
+304,14605,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+305,14578,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+306,73457,"['lodging', 'point_of_interest', 'establishment']"
+307,14582,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+308,75704,"['lodging', 'point_of_interest', 'establishment']"
+309,45252,['premise']
+310,15267,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+311,14610,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+312,60804,"['lodging', 'point_of_interest', 'establishment']"
+313,97785,"['real_estate_agency', 'point_of_interest', 'establishment']"
+314,14591,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+315,100098,['premise']
+316,37003,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+317,68285,"['lodging', 'point_of_interest', 'establishment']"
+318,74529,"['lodging', 'point_of_interest', 'establishment']"
+319,57179,"['lodging', 'point_of_interest', 'establishment']"
+320,57101,"['lodging', 'point_of_interest', 'establishment']"
+321,97982,
+322,70477,"['lodging', 'point_of_interest', 'establishment']"
+323,78841,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+324,45243,"['lodging', 'point_of_interest', 'establishment']"
+325,60165,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+326,60793,['premise']
+327,57154,"['point_of_interest', 'establishment']"
+328,13988,"['lodging', 'point_of_interest', 'establishment']"
+329,72764,
+330,70362,['premise']
+331,60779,"['lodging', 'point_of_interest', 'establishment']"
+332,68172,"['grocery_or_supermarket', 'food', 'store', 'point_of_interest', 'establishment']"
+333,72828,"['lodging', 'point_of_interest', 'establishment']"
+334,100754,['premise']
+335,100100,['premise']
+336,97763,
+337,90477,"['lodging', 'point_of_interest', 'establishment']"
+338,68483,"['lodging', 'point_of_interest', 'establishment']"
+339,13965,"['lodging', 'point_of_interest', 'establishment']"
+340,97753,['route']
+341,72759,"['lodging', 'point_of_interest', 'establishment']"
+342,97762,['street_address']
+343,57021,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+344,62941,"['rv_park', 'lodging', 'point_of_interest', 'establishment']"
+345,100587,"['real_estate_agency', 'point_of_interest', 'establishment']"
+346,99153,
+347,70292,['premise']
+348,64573,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+349,57236,"['campground', 'park', 'rv_park', 'lodging', 'point_of_interest', 'establishment']"
+350,68197,"['lodging', 'point_of_interest', 'establishment']"
+351,74452,"['campground', 'park', 'real_estate_agency', 'lodging', 'point_of_interest', 'establishment']"
+352,57082,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+353,78852,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+354,84025,['premise']
+355,98120,"['lodging', 'point_of_interest', 'establishment']"
+356,70337,"['lodging', 'point_of_interest', 'establishment']"
+357,14584,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+358,14592,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+359,83845,['route']
+360,78728,"['lodging', 'point_of_interest', 'establishment']"
+361,78098,"['parking', 'lodging', 'point_of_interest', 'establishment']"
+362,78997,['street_address']
+363,15003,"['lodging', 'point_of_interest', 'establishment']"
+364,97768,['premise']
+365,60811,"['point_of_interest', 'establishment']"
+366,68378,"['lodging', 'point_of_interest', 'establishment']"
+367,63116,"['lodging', 'point_of_interest', 'establishment']"
+368,60750,"['point_of_interest', 'establishment']"
+369,57022,"['campground', 'rv_park', 'amusement_park', 'travel_agency', 'lodging', 'park', 'real_estate_agency', 'point_of_interest', 'establishment']"
+370,75566,"['spa', 'lodging', 'point_of_interest', 'establishment']"
+371,14469,"['lodging', 'point_of_interest', 'establishment']"
+372,14996,"['lodging', 'point_of_interest', 'establishment']"
+373,92631,['premise']
+374,78708,['route']
+375,77728,"['lodging', 'point_of_interest', 'establishment']"
+376,82466,"['lodging', 'point_of_interest', 'establishment']"
+377,68302,"['lodging', 'point_of_interest', 'establishment']"
+378,68390,"['lodging', 'point_of_interest', 'establishment']"
+379,70330,"['point_of_interest', 'establishment']"
+380,69010,"['lodging', 'point_of_interest', 'establishment']"
+381,70300,"['lodging', 'point_of_interest', 'establishment']"
+382,72901,"['lodging', 'point_of_interest', 'establishment']"
+383,64181,"['lodging', 'point_of_interest', 'establishment']"
+384,83751,['street_address']
+385,68445,['street_address']
+386,67549,['premise']
+387,68181,"['lodging', 'point_of_interest', 'establishment']"
+388,69019,"['lodging', 'point_of_interest', 'establishment']"
+389,60166,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+390,57274,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+391,100065,
+392,68478,"['point_of_interest', 'establishment']"
+393,68468,"['lodging', 'point_of_interest', 'establishment']"
+394,68299,"['lodging', 'point_of_interest', 'establishment']"
+395,80894,['street_address']
+396,68436,"['lodging', 'point_of_interest', 'establishment']"
+397,15017,"['lodging', 'point_of_interest', 'establishment']"
+398,68188,['street_address']
+399,74727,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+400,83948,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']"
+401,78664,
+402,14537,"['lodging', 'point_of_interest', 'establishment']"
+403,94686,
+404,70334,"['lodging', 'point_of_interest', 'establishment']"
+405,68170,"['lodging', 'point_of_interest', 'establishment']"
+406,14586,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+407,14579,"['campground', 'rv_park', 'park', 'lodging', 'point_of_interest', 'establishment']"
+408,67492,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+409,60773,['premise']
+410,60775,['premise']
+411,60776,['street_address']
+412,64154,"['lodging', 'point_of_interest', 'establishment']"
+413,69018,
+414,61000,
+415,60799,['premise']
+416,83844,['premise']
+417,72701,"['liquor_store', 'store', 'point_of_interest', 'establishment']"
+418,82923,['street_address']
+419,12678,"['night_club', 'bar', 'lodging', 'point_of_interest', 'establishment']"
+420,68472,"['lodging', 'point_of_interest', 'establishment']"
+421,60929,
+422,72902,"['lodging', 'point_of_interest', 'establishment']"
+423,77911,"['tourist_attraction', 'lodging', 'park', 'point_of_interest', 'establishment']"
+424,100058,['premise']
+425,100070,"['lodging', 'point_of_interest', 'establishment']"
+426,78941,['street_address']
+427,94783,"['lodging', 'point_of_interest', 'establishment']"
+428,83806,
+429,57090,
+430,57217,"['lodging', 'point_of_interest', 'establishment']"
+431,78124,"['lodging', 'point_of_interest', 'establishment']"
+432,14604,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+433,78700,['premise']
+434,68380,
+435,72636,"['lodging', 'point_of_interest', 'establishment']"
+436,13948,"['lodging', 'point_of_interest', 'establishment']"
+437,97998,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+438,15362,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+439,91924,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+440,57089,['street_address']
+441,14594,
+442,97767,['premise']
+443,57136,"['lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+444,14553,"['lodging', 'point_of_interest', 'establishment']"
+445,81332,"['lodging', 'point_of_interest', 'establishment']"
+446,14583,"['campground', 'lodging', 'park', 'point_of_interest', 'establishment']"
+447,57040,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+448,100066,
+449,68191,"['point_of_interest', 'establishment']"
+450,60791,['premise']
+451,61612,"['lodging', 'point_of_interest', 'establishment']"
+452,60806,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+453,14590,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+454,99155,['premise']
+455,77677,"['point_of_interest', 'establishment']"
+456,68442,
+457,60808,['premise']
+458,79138,
+459,78683,['premise']
+460,61007,"['clothing_store', 'store', 'point_of_interest', 'establishment']"
+461,89280,"['lodging', 'point_of_interest', 'establishment']"
+462,68166,"['lodging', 'point_of_interest', 'establishment']"
+463,75118,"['store', 'point_of_interest', 'establishment']"
+464,139cf096-b755-f270-97e8-501b9f641846,"['lodging', 'point_of_interest', 'establishment']"
+465,c6fe811e-d727-11ea-8c38-0050569afc27,"['point_of_interest', 'establishment']"
+466,81645174-5941-09d9-ebd9-50d1eab4b491,"['spa', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+467,c6eeed96-cad5-f59d-227f-50f4208fd5d4,"['lodging', 'point_of_interest', 'establishment']"
+468,6048715,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+469,6048735,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+470,5242476,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+471,73881,"['point_of_interest', 'establishment']"
+472,58227,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+473,73885,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+474,74180,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+475,85273,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+476,58303,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+477,57946,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+478,80190,"['bar', 'point_of_interest', 'establishment']"
+479,74197,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+480,73915,"['liquor_store', 'bar', 'point_of_interest', 'store', 'food', 'establishment']"
+481,58097,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+482,73907,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+483,77152,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+484,85275,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+485,60545,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+486,14891,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+487,58261,"['bar', 'point_of_interest', 'establishment']"
+488,73883,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+489,77149,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+490,55128,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+491,77397,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+492,58022,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+493,36912,"['restaurant', 'cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+494,58363,"['meal_delivery', 'point_of_interest', 'food', 'establishment']"
+495,74186,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+496,73841,"['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']"
+497,58178,"['restaurant', 'lodging', 'food', 'point_of_interest', 'establishment']"
+498,70626,"['restaurant', 'meal_takeaway', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']"
+499,58277,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+500,64203,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+501,57826,"['point_of_interest', 'establishment']"
+502,15255,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+503,73986,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+504,57964,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+505,58018,"['point_of_interest', 'establishment']"
+506,58368,"['lodging', 'point_of_interest', 'establishment']"
+507,74198,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+508,64572,
+509,77237,"['bar', 'point_of_interest', 'establishment']"
+510,55175,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+511,58048,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+512,58218,"['meal_takeaway', 'restaurant', 'point_of_interest', 'store', 'food', 'establishment']"
+513,77498,"['bar', 'point_of_interest', 'establishment']"
+514,74209,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+515,77163,"['point_of_interest', 'establishment']"
+516,55176,"['lodging', 'point_of_interest', 'establishment']"
+517,88669,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+518,74202,"['meal_delivery', 'meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+519,85241,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+520,77148,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+521,14768,
+522,58035,"['night_club', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+523,100134,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+524,58315,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+525,79164,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+526,84375,
+527,85262,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+528,58036,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+529,58113,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+530,77494,"['bar', 'point_of_interest', 'establishment']"
+531,73953,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+532,58164,"['lodging', 'point_of_interest', 'establishment']"
+533,78769,"['bar', 'point_of_interest', 'establishment']"
+534,58152,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+535,84582,"['cafe', 'point_of_interest', 'store', 'food', 'establishment']"
+536,85227,"['restaurant', 'bar', 'cafe', 'point_of_interest', 'food', 'establishment']"
+537,58159,"['restaurant', 'bar', 'meal_takeaway', 'point_of_interest', 'food', 'establishment']"
+538,58486,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+539,81501,"['restaurant', 'cafe', 'point_of_interest', 'food', 'establishment']"
+540,57856,"['gas_station', 'parking', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+541,57923,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+542,73875,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+543,57990,"['bar', 'point_of_interest', 'store', 'establishment']"
+544,60716,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+545,58426,"['lodging', 'point_of_interest', 'establishment']"
+546,58056,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+547,84574,"['bar', 'point_of_interest', 'establishment']"
+548,77510,"['bar', 'point_of_interest', 'establishment']"
+549,74181,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+550,58454,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+551,81457,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+552,58135,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+553,58317,['premise']
+554,73904,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+555,85233,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+556,73869,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+557,69024,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+558,73900,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+559,60694,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+560,96495,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+561,77407,"['bar', 'point_of_interest', 'establishment']"
+562,73989,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+563,69036,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+564,58276,"['lodging', 'point_of_interest', 'establishment']"
+565,58211,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+566,58132,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+567,57922,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+568,58188,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+569,77484,"['bar', 'night_club', 'liquor_store', 'point_of_interest', 'store', 'establishment']"
+570,14391,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+571,59885,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+572,60708,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+573,85272,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+574,73920,"['bar', 'point_of_interest', 'establishment']"
+575,76602,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+576,84937,"['cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment']"
+577,77500,"['bar', 'point_of_interest', 'establishment']"
+578,84373,"['bar', 'point_of_interest', 'establishment']"
+579,74185,"['restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+580,78254,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+581,58339,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+582,80194,"['bar', 'point_of_interest', 'establishment']"
+583,72400,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+584,58341,
+585,73872,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+586,77523,"['night_club', 'point_of_interest', 'establishment']"
+587,77491,"['bar', 'point_of_interest', 'store', 'establishment']"
+588,69037,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+589,57959,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+590,74203,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+591,85231,"['cafe', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+592,58057,"['tourist_attraction', 'point_of_interest', 'establishment']"
+593,55125,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+594,57808,"['florist', 'point_of_interest', 'store', 'establishment']"
+595,58448,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+596,69043,
+597,58483,"['lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+598,84578,"['bar', 'point_of_interest', 'establishment']"
+599,69035,"['restaurant', 'lodging', 'food', 'point_of_interest', 'establishment']"
+600,14942,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+601,14960,"['bar', 'cafe', 'food', 'point_of_interest', 'establishment']"
+602,58038,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+603,60689,"['campground', 'cafe', 'park', 'lodging', 'bar', 'food', 'point_of_interest', 'establishment']"
+604,55179,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+605,73990,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+606,77346,"['bar', 'point_of_interest', 'establishment']"
+607,57823,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+608,93760,"['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']"
+609,73887,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+610,58383,"['lodging', 'point_of_interest', 'establishment']"
+611,57849,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+612,68419,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+613,65356,"['restaurant', 'cafe', 'food', 'point_of_interest', 'establishment']"
+614,77405,"['cafe', 'point_of_interest', 'food', 'establishment']"
+615,58198,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+616,58029,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+617,57965,"['restaurant', 'meal_takeaway', 'food', 'point_of_interest', 'store', 'establishment']"
+618,58014,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+619,58201,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+620,97407,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+621,77496,"['bar', 'point_of_interest', 'establishment']"
+622,58058,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+623,85251,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+624,57999,"['cafe', 'food', 'point_of_interest', 'establishment']"
+625,85267,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+626,77516,"['bar', 'point_of_interest', 'establishment']"
+627,84349,"['bar', 'point_of_interest', 'establishment']"
+628,73906,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+629,85242,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+630,58376,"['store', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+631,58267,['premise']
+632,57850,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+633,58114,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+634,58205,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+635,69042,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+636,77502,"['point_of_interest', 'establishment']"
+637,84493,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+638,57924,"['bar', 'point_of_interest', 'establishment']"
+639,77519,"['bar', 'point_of_interest', 'establishment']"
+640,14571,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+641,88668,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+642,74183,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+643,57991,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+644,74189,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+645,57877,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+646,58452,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+647,74208,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+648,58230,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+649,14103,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+650,73946,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+651,73952,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+652,77985,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']"
+653,58456,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+654,84675,"['bar', 'point_of_interest', 'store', 'establishment']"
+655,57976,"['point_of_interest', 'establishment']"
+656,58111,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+657,15275,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+658,58145,"['lodging', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+659,77402,"['bar', 'point_of_interest', 'establishment']"
+660,85271,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+661,85235,"['painter', 'point_of_interest', 'establishment']"
+662,73788,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+663,84372,"['bar', 'point_of_interest', 'establishment']"
+664,84374,
+665,57921,"['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']"
+666,58041,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+667,93511,"['cafe', 'food', 'point_of_interest', 'establishment']"
+668,85244,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+669,74193,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+670,57784,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+671,69031,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+672,77497,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+673,58141,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+674,78931,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+675,58162,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+676,85232,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+677,58219,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+678,58463,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+679,57900,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+680,58040,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+681,74177,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+682,58200,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+683,55168,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+684,58049,"['cafe', 'meal_takeaway', 'restaurant', 'bar', 'bakery', 'food', 'point_of_interest', 'store', 'establishment']"
+685,57973,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+686,77504,"['bar', 'point_of_interest', 'establishment']"
+687,70378,"['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+688,57827,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+689,58417,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+690,73833,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+691,81480,"['store', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+692,73950,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+693,79856,
+694,78262,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+695,77401,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+696,77525,"['bar', 'point_of_interest', 'establishment']"
+697,58215,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+698,87155,
+699,85702,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+700,99242,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+701,94036,
+702,77489,"['bar', 'point_of_interest', 'establishment']"
+703,76882,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+704,73871,
+705,58316,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+706,58314,"['night_club', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+707,58420,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+708,81496,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+709,74187,"['restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+710,61827,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+711,14380,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+712,58034,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+713,73867,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+714,58055,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+715,84371,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+716,60534,
+717,77531,"['bar', 'point_of_interest', 'establishment']"
+718,58436,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+719,69040,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+720,60727,"['food', 'point_of_interest', 'establishment']"
+721,74972,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+722,73988,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+723,58327,"['cafe', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+724,58439,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']"
+725,60543,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+726,58440,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+727,77403,"['bar', 'point_of_interest', 'establishment']"
+728,56966,"['point_of_interest', 'store', 'food', 'establishment']"
+729,73908,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+730,58174,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+731,79293,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+732,81488,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+733,58438,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+734,60712,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+735,57783,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+736,84845,"['bar', 'point_of_interest', 'store', 'establishment']"
+737,74135,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+738,79853,"['cafe', 'point_of_interest', 'food', 'establishment']"
+739,79948,"['night_club', 'bar', 'point_of_interest', 'establishment']"
+740,58131,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+741,73925,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+742,69033,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+743,58017,"['beauty_salon', 'hair_care', 'spa', 'point_of_interest', 'establishment']"
+744,84336,"['bar', 'point_of_interest', 'establishment']"
+745,85237,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+746,64198,"['cafe', 'food', 'point_of_interest', 'establishment']"
+747,58361,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+748,85229,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+749,58169,"['food', 'point_of_interest', 'establishment']"
+750,85243,"['bowling_alley', 'bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+751,98243,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+752,85269,['street_address']
+753,76865,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+754,57774,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+755,57830,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+756,64216,"['food', 'point_of_interest', 'establishment']"
+757,72787,"['point_of_interest', 'establishment']"
+758,58459,"['bar', 'cafe', 'food', 'point_of_interest', 'establishment']"
+759,77488,"['night_club', 'bar', 'food', 'point_of_interest', 'establishment']"
+760,58365,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+761,77508,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+762,58110,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+763,58477,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+764,73878,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+765,58311,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+766,58476,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+767,77486,"['bar', 'point_of_interest', 'establishment']"
+768,58392,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+769,58493,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+770,58250,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+771,81478,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+772,58359,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+773,58395,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+774,84693,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+775,85274,"['bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+776,58089,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+777,57817,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+778,58333,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+779,97003,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+780,57782,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+781,58249,"['restaurant', 'meal_takeaway', 'bar', 'food', 'point_of_interest', 'establishment']"
+782,60704,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+783,60698,"['meal_takeaway', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+784,85239,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+785,60547,"['cafe', 'restaurant', 'bar', 'food', 'point_of_interest', 'establishment']"
+786,85238,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+787,58258,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+788,77505,"['cafe', 'food', 'point_of_interest', 'establishment']"
+789,58236,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+790,84575,"['bar', 'point_of_interest', 'establishment']"
+791,87648,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']"
+792,57894,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+793,58077,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+794,58298,"['point_of_interest', 'establishment']"
+795,57843,"['restaurant', 'lodging', 'bar', 'food', 'point_of_interest', 'establishment']"
+796,84484,"['bar', 'point_of_interest', 'establishment']"
+797,77273,"['cafe', 'food', 'point_of_interest', 'establishment']"
+798,58322,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+799,60546,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+800,58109,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+801,58264,"['lodging', 'point_of_interest', 'establishment']"
+802,93725,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+803,85230,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+804,57950,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+805,77347,"['restaurant', 'liquor_store', 'bar', 'store', 'food', 'point_of_interest', 'establishment']"
+806,73901,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+807,85245,"['food', 'point_of_interest', 'establishment']"
+808,58424,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+809,77493,"['cafe', 'bar', 'food', 'point_of_interest', 'establishment']"
+810,58362,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+811,74178,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+812,64217,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+813,70313,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+814,88666,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+815,73882,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+816,58415,"['restaurant', 'meal_takeaway', 'lodging', 'point_of_interest', 'food', 'establishment']"
+817,69032,
+818,57855,"['campground', 'park', 'lodging', 'point_of_interest', 'establishment']"
+819,58045,
+820,58248,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+821,60140,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+822,81451,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+823,58372,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+824,58039,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+825,74057,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+826,58122,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+827,58422,['route']
+828,58307,"['meal_takeaway', 'cafe', 'bar', 'store', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+829,58295,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+830,57806,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+831,85265,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+832,57775,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+833,56874,"['food', 'point_of_interest', 'store', 'establishment']"
+834,62028,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+835,73951,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+836,57825,"['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']"
+837,57854,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+838,58313,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+839,73884,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+840,74204,"['restaurant', 'bar', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']"
+841,73873,"['point_of_interest', 'establishment']"
+842,74192,"['bar', 'point_of_interest', 'establishment']"
+843,77515,"['bar', 'point_of_interest', 'establishment']"
+844,74206,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+845,58425,"['bar', 'restaurant', 'point_of_interest', 'food', 'establishment']"
+846,58046,"['lodging', 'point_of_interest', 'establishment']"
+847,58054,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+848,60690,"['natural_feature', 'establishment']"
+849,58155,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+850,58061,
+851,58427,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+852,85264,"['restaurant', 'airport', 'bar', 'food', 'point_of_interest', 'establishment']"
+853,74179,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+854,60096,"['restaurant', 'bar', 'point_of_interest', 'food', 'establishment']"
+855,79785,['premise']
+856,77495,"['bar', 'point_of_interest', 'establishment']"
+857,63597,"['bakery', 'cafe', 'store', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']"
+858,69034,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+859,92242,"['lodging', 'point_of_interest', 'establishment']"
+860,57848,"['point_of_interest', 'establishment']"
+861,80178,"['restaurant', 'point_of_interest', 'food', 'establishment']"
+862,74188,"['restaurant', 'food', 'point_of_interest', 'establishment']"
+863,bbd0c9be-e614-a82b-a509-50d1e86184e3,"['restaurant', 'food', 'point_of_interest', 'establishment']"
